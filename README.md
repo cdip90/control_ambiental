@@ -1,1 +1,1 @@
-Mi primer repositorio.
+Proyecto para control de variables ambientales. Sensor de temperatura y humedad AM2320 conectado placa NodeMCU con módulo wifi ESP8266. Se envía los datos a API en formato JSON. BACKEND realizado en Django, se almacenan datos en BD y se envían a Frontend.
